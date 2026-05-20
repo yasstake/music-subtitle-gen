@@ -1,1 +1,1 @@
-stable-whisper>=2.7.0
+git+https://github.com/jianfch/stable-ts.git
